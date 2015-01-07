@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AksiIDE>
+  <project>
+    <name>LE HRIS - tmpl</name>
+    <module/>
+    <moduleid/>
+    <framework>
+      <name>Zikula</name>
+    </framework>
+    <site>
+      <RunAs>0</RunAs>
+      <url>http://coba.com/z1.3/users/login/returnpage/users</url>
+    </site>
+    <database/>
+    <js/>
+    <git/>
+  </project>
+</AksiIDE>
